@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm TristePan👋
 
 - 🌱 I’m currently studying at University of study of Catania in **Computer Science**
 
