@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently studying at University of study of Catania in **Computer Science**
+
 <!--
 **TristePan/TristePan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
