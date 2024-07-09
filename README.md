@@ -1,6 +1,7 @@
 ## Hi there, I'm TristePan👋
 
 - 🌱 I’m currently studying at University of study of Catania in **Computer Science**
+- 🔭 I’m currently working on a 2D platform game
 
 <!--
 **TristePan/TristePan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
